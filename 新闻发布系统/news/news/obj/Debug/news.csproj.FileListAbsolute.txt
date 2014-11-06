@@ -1,0 +1,5 @@
+C:\Users\Channe\Documents\GitHub\ASP.net\新闻发布系统\news\news\bin\news.dll
+C:\Users\Channe\Documents\GitHub\ASP.net\新闻发布系统\news\news\bin\news.pdb
+C:\Users\Channe\Documents\GitHub\ASP.net\新闻发布系统\news\news\obj\Debug\news.csprojResolveAssemblyReference.cache
+C:\Users\Channe\Documents\GitHub\ASP.net\新闻发布系统\news\news\obj\Debug\news.dll
+C:\Users\Channe\Documents\GitHub\ASP.net\新闻发布系统\news\news\obj\Debug\news.pdb
