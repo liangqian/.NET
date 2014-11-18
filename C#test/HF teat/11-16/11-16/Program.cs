@@ -13,8 +13,8 @@ namespace _11_16
             int myInteger;
             string myString;
             myInteger = 17;
-            myString = "\"myInteger\" is";
-            Console.WriteLine("{0} {1}.",myString,myInteger);           
+            myString = "\"myInteger\" is";      /*转义字符*/
+            Console.WriteLine("{0} {1}.", myString, myInteger);
             Console.ReadKey();
         }
     }
