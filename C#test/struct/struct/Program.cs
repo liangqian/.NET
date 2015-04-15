@@ -20,7 +20,7 @@ namespace @struct
     }
     public struct Mycolor
     {
-        public int _red;
+        public int _red;        //给字段起名的时候，在前面加上下划线，以区分变量
         public int _blue;
         public int _green;
     }

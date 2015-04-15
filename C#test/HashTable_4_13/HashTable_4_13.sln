@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable_4_13", "HashTable_4_13\HashTable_4_13.csproj", "{C3586B26-DAED-44BE-A9B6-D9556D544F50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "简繁转换", "Exchang_fan_jian\简繁转换.csproj", "{F62D75CF-90B7-4132-9F5C-D0718B2D079C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3586B26-DAED-44BE-A9B6-D9556D544F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3586B26-DAED-44BE-A9B6-D9556D544F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3586B26-DAED-44BE-A9B6-D9556D544F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3586B26-DAED-44BE-A9B6-D9556D544F50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F62D75CF-90B7-4132-9F5C-D0718B2D079C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62D75CF-90B7-4132-9F5C-D0718B2D079C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62D75CF-90B7-4132-9F5C-D0718B2D079C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62D75CF-90B7-4132-9F5C-D0718B2D079C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
