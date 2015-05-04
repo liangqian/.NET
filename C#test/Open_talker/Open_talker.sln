@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open_talker", "Open_talker\Open_talker.csproj", "{DE785A34-403E-4A90-A959-CFA0E9D5F6C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Save_file", "..\Save_file\Save_file\Save_file.csproj", "{EEB2D314-EFED-465D-BD1F-01EF56C1549B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE785A34-403E-4A90-A959-CFA0E9D5F6C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE785A34-403E-4A90-A959-CFA0E9D5F6C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE785A34-403E-4A90-A959-CFA0E9D5F6C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE785A34-403E-4A90-A959-CFA0E9D5F6C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEB2D314-EFED-465D-BD1F-01EF56C1549B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB2D314-EFED-465D-BD1F-01EF56C1549B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB2D314-EFED-465D-BD1F-01EF56C1549B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB2D314-EFED-465D-BD1F-01EF56C1549B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YaojiangMacine", "YaojiangMacine\YaojiangMacine.csproj", "{A5CF6B85-21D3-4368-9D24-924E53D05797}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Review", "Review\Review.csproj", "{581E3DB2-D5B2-4526-B4F9-B4E8DB0EF862}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "摇奖机（ps）", "摇奖机（ps）\摇奖机（ps）.csproj", "{1370CFBD-A7AC-489E-B2FD-195B190EE095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5CF6B85-21D3-4368-9D24-924E53D05797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5CF6B85-21D3-4368-9D24-924E53D05797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5CF6B85-21D3-4368-9D24-924E53D05797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5CF6B85-21D3-4368-9D24-924E53D05797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{581E3DB2-D5B2-4526-B4F9-B4E8DB0EF862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{581E3DB2-D5B2-4526-B4F9-B4E8DB0EF862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{581E3DB2-D5B2-4526-B4F9-B4E8DB0EF862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{581E3DB2-D5B2-4526-B4F9-B4E8DB0EF862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1370CFBD-A7AC-489E-B2FD-195B190EE095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1370CFBD-A7AC-489E-B2FD-195B190EE095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1370CFBD-A7AC-489E-B2FD-195B190EE095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1370CFBD-A7AC-489E-B2FD-195B190EE095}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
