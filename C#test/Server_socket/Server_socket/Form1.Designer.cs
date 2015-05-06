@@ -35,7 +35,6 @@
             this.txtMsg = new System.Windows.Forms.TextBox();
             this.txtPath = new System.Windows.Forms.TextBox();
             this.cboUser = new System.Windows.Forms.ComboBox();
-            this.button1 = new System.Windows.Forms.Button();
             this.btnSelect = new System.Windows.Forms.Button();
             this.btnSendFile = new System.Windows.Forms.Button();
             this.btnSend = new System.Windows.Forms.Button();
@@ -75,6 +74,7 @@
             this.txtLog.Name = "txtLog";
             this.txtLog.Size = new System.Drawing.Size(437, 263);
             this.txtLog.TabIndex = 3;
+            this.txtLog.TextChanged += new System.EventHandler(this.txtLog_TextChanged);
             // 
             // txtMsg
             // 
@@ -100,15 +100,6 @@
             this.cboUser.Size = new System.Drawing.Size(157, 20);
             this.cboUser.TabIndex = 6;
             // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(477, 96);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(71, 22);
-            this.button1.TabIndex = 7;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            // 
             // btnSelect
             // 
             this.btnSelect.Location = new System.Drawing.Point(356, 422);
@@ -117,6 +108,7 @@
             this.btnSelect.TabIndex = 8;
             this.btnSelect.Text = "选择";
             this.btnSelect.UseVisualStyleBackColor = true;
+            this.btnSelect.Click += new System.EventHandler(this.btnSelect_Click);
             // 
             // btnSendFile
             // 
@@ -126,6 +118,7 @@
             this.btnSendFile.TabIndex = 9;
             this.btnSendFile.Text = "发送文件";
             this.btnSendFile.UseVisualStyleBackColor = true;
+            this.btnSendFile.Click += new System.EventHandler(this.btnSendFile_Click);
             // 
             // btnSend
             // 
@@ -135,6 +128,7 @@
             this.btnSend.TabIndex = 11;
             this.btnSend.Text = "发送消息";
             this.btnSend.UseVisualStyleBackColor = true;
+            this.btnSend.Click += new System.EventHandler(this.btnSend_Click);
             // 
             // btnVertebra
             // 
@@ -144,6 +138,7 @@
             this.btnVertebra.TabIndex = 10;
             this.btnVertebra.Text = "震动";
             this.btnVertebra.UseVisualStyleBackColor = true;
+            this.btnVertebra.Click += new System.EventHandler(this.btnVertebra_Click);
             // 
             // Form1
             // 
@@ -154,7 +149,6 @@
             this.Controls.Add(this.btnVertebra);
             this.Controls.Add(this.btnSendFile);
             this.Controls.Add(this.btnSelect);
-            this.Controls.Add(this.button1);
             this.Controls.Add(this.cboUser);
             this.Controls.Add(this.txtPath);
             this.Controls.Add(this.txtMsg);
@@ -179,7 +173,6 @@
         private System.Windows.Forms.TextBox txtMsg;
         private System.Windows.Forms.TextBox txtPath;
         private System.Windows.Forms.ComboBox cboUser;
-        private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button btnSelect;
         private System.Windows.Forms.Button btnSendFile;
         private System.Windows.Forms.Button btnSend;
