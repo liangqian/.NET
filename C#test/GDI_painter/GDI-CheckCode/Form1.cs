@@ -103,7 +103,7 @@ namespace GDI_CheckCode
         void textBox1_GotFocus(object sender, EventArgs e)
         {
             //if(textBox1.Text=="请输入验证码")
-            if(a<=1)
+            if(a<=1)            
             {
                 a++;
                 this.textBox1.Text = "请输入验证码";
