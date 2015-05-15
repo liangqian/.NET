@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study XML", "Study XML\Study XML.csproj", "{025320E5-2E39-4F07-BCE4-21FDBD6993E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML drag propipdad", "XML drag propipdad\XML drag propipdad.csproj", "{25DBFA62-653B-47E5-A781-FEBEC705FFB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add _XML", "Add _XML\Add _XML.csproj", "{59A4CF09-39CD-47E1-A518-98FCB805E472}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{025320E5-2E39-4F07-BCE4-21FDBD6993E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025320E5-2E39-4F07-BCE4-21FDBD6993E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025320E5-2E39-4F07-BCE4-21FDBD6993E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025320E5-2E39-4F07-BCE4-21FDBD6993E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25DBFA62-653B-47E5-A781-FEBEC705FFB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25DBFA62-653B-47E5-A781-FEBEC705FFB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25DBFA62-653B-47E5-A781-FEBEC705FFB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25DBFA62-653B-47E5-A781-FEBEC705FFB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59A4CF09-39CD-47E1-A518-98FCB805E472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A4CF09-39CD-47E1-A518-98FCB805E472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A4CF09-39CD-47E1-A518-98FCB805E472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A4CF09-39CD-47E1-A518-98FCB805E472}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
