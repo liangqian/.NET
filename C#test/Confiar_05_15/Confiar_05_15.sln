@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Confiar_05_15", "Confiar_05_15\Confiar_05_15.csproj", "{029E9CE1-6357-4181-8390-5CEE8FE86308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conquet Of Confiar", "Conquet Of Confiar\Conquet Of Confiar.csproj", "{A4082339-74C9-448E-AB2B-BE00F0A72F29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "匿名函数", "匿名函数\匿名函数.csproj", "{4ABDCBE6-B58A-4FEA-B2B7-5EBE00FABBB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxValue", "MaxValue\MaxValue.csproj", "{2C91F56A-5BB4-439F-9F10-AED45D71375A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{029E9CE1-6357-4181-8390-5CEE8FE86308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029E9CE1-6357-4181-8390-5CEE8FE86308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029E9CE1-6357-4181-8390-5CEE8FE86308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029E9CE1-6357-4181-8390-5CEE8FE86308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4082339-74C9-448E-AB2B-BE00F0A72F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4082339-74C9-448E-AB2B-BE00F0A72F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4082339-74C9-448E-AB2B-BE00F0A72F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4082339-74C9-448E-AB2B-BE00F0A72F29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ABDCBE6-B58A-4FEA-B2B7-5EBE00FABBB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ABDCBE6-B58A-4FEA-B2B7-5EBE00FABBB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ABDCBE6-B58A-4FEA-B2B7-5EBE00FABBB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ABDCBE6-B58A-4FEA-B2B7-5EBE00FABBB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C91F56A-5BB4-439F-9F10-AED45D71375A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C91F56A-5BB4-439F-9F10-AED45D71375A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C91F56A-5BB4-439F-9F10-AED45D71375A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C91F56A-5BB4-439F-9F10-AED45D71375A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
